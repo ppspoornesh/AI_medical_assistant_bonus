@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Medical AI Assistant – GenAI Engineer Hiring Task
 
 *All 4 compulsory parts are fully implemented.*  
@@ -69,3 +70,7 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000
 
 # Terminal 2 – Frontend
 streamlit run frontend/streamlit_app.py --server.port 8501
+=======
+# AI_medical_assistant_bonus
+GenAI Hiring Task + Bonus: Dockerized &amp; Deployed on Render (Free Tier)
+>>>>>>> 7e3322e7533e842ddfbc40cebdcea8deba5751ee
